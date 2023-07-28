@@ -5,7 +5,7 @@ const Navigation = () => {
   return (
     <nav className={styles.navigation}>
     <div className='logo'>
-        <img src='/images/Frame 2 1.png' alt='logo'></img>
+        <img src='./images/Frame 2 1.png' alt='logo'></img>
     </div>
     <ul>
         <li>Home</li>
